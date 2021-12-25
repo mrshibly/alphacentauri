@@ -1,0 +1,35 @@
+div.container{
+width: 100%;
+margin: 0px;
+border: 1px solid rgba(98, 0, 255, 0.76);
+line-height: 150%;
+}
+div.header,div.footer{
+    padding: 0.5em;
+    color: rgb(250, 227, 255);
+    background-color:rgba(98, 0, 255, 0.76);
+    clear:left;
+}
+h1.header{
+    padding: 0;
+    margin: 0;
+    /*text-align: center;*/
+}
+div.left{
+    float: left;
+    width: 160px;
+    margin: 0;
+    padding: 1em;
+    text-align: justify;
+}
+div.content {
+    margin-left: 190px;
+    border-left: 1px solid rgba(219, 197, 255, 0.76);
+    padding: 1em;
+}
+h6{
+    padding-top: 2px;
+    margin: 0;
+    /*text-align: center;*/
+    font-family: 'Courier New', Courier, monospace;
+}
